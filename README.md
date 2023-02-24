@@ -1,5 +1,5 @@
 # TinDog
-Website designed inspired in Tinder, but this one is for dogs ;p
+<a href=""><img src=""></a>
 
 <img src="images/Screenshot_1.png">
 <img src="images/Screenshot_2.png">
